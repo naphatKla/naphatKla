@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/naphatKla?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.facebook.com/naphat.kb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/naphatKla" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/7bNZSc2/github-1024x979.png" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@kbwn9259" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" width="32" height="32" /></a> 
+<a href="https://naphatkla.itch.io/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" width="32" height="32" /></a> 
 <a href="https://www.youtube.com/@kbwn9259" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
