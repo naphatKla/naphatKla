@@ -7,7 +7,7 @@ Game Developer
 I'm student in Bangkok University Game & Interactive - C# Programming - Unity C# Programming
 
 * ✉️  You can contact me at [naphat.watt@bumail.net](mailto:naphat.watt@bumail.net)
-* 🚀  I'm currently working on [Xodic Studio](http://https://www.notion.so/xodic/Xodic-Studio-834320ab2b5243b0a605ef2724eefb8a?pvs=4)
+* 🚀  I'm currently working on [Xodic Studio](https://t.co/OLETPVtRbf)
 * 🧠  I'm learning Unity C# Programming
 
 
